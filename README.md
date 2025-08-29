@@ -34,5 +34,5 @@
 
 ---
 
-## 🐍 Snake Eating My Contribution Graph
+### 🐍 Snake Eating My Contribution Graph
 ![Snake animation](https://github.com/sdy1125/sdy1125/blob/output/snake.svg)

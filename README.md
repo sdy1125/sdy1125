@@ -28,8 +28,9 @@
 
 ---
 
-## 🎵 My Music Taste
+### 🎵 My Music Taste
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31wechigafyn5fhdca23iubffeja&cover_image=true&theme=default)
+
 
 ---
 
